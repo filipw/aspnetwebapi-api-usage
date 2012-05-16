@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrathWeb_ApiUsage", "StrathWeb_ApiUsage\StrathWeb_ApiUsage.csproj", "{73B8D3F0-E221-4CCA-8A77-F278BB29EF75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B35D1444-40A3-47F3-A714-615B325BF761}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B8D3F0-E221-4CCA-8A77-F278BB29EF75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B8D3F0-E221-4CCA-8A77-F278BB29EF75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B8D3F0-E221-4CCA-8A77-F278BB29EF75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B8D3F0-E221-4CCA-8A77-F278BB29EF75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
